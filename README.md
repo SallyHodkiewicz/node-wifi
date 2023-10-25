@@ -1,4 +1,4 @@
-<div align="center">
+<div*align="center">
 <p>
 <img src="https://raw.githubusercontent.com/friedrith/assets/master/node-wifi/logo.png" alt="node-wifi" />
 <br>
@@ -35,7 +35,7 @@ We wish to be clear in saying that this module is inspired from [node-wifi-contr
 
 ---
 
-## Install
+!  Install
 
 ```bash
 # Use as a module
@@ -194,3 +194,4 @@ Please read [development guidelines](./CONTRIBUTING.md) before proposing a pull 
 - [ ] harmonize security flags and modes
 - [ ] install commitizen
 - [ ] use xml to stabilize parsers
+ 
